@@ -1,2 +1,2 @@
 # application-codes
-code for dynamic web
+Application code for rentzone app
